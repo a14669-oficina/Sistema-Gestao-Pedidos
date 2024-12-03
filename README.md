@@ -1,4 +1,4 @@
-<h3> EXP.A04 - PSI - M3 - EXPA04</h3>
+<h1> EXP.A04 - PSI - M3 - EXPA04</h1>
 
 """
 registar_pedido(): Para adicionar novos pedidos.
